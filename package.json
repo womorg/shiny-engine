@@ -1,6 +1,6 @@
 {
   "name": "@womorg/shiny-engine",
-  "version": "1.2.46",
+  "version": "1.2.47",
   "description": "",
   "main": "index.js",
   "author": "womhla6s",
@@ -707,5 +707,5 @@
   "bugs": {
     "url": "https://github.com/womorg/shiny-engine/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
