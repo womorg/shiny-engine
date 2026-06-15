@@ -1,6 +1,6 @@
 {
   "name": "@womorg/shiny-engine",
-  "version": "16.55.594",
+  "version": "16.55.595",
   "description": "",
   "main": "index.js",
   "author": "maggaopen",
@@ -707,5 +707,5 @@
   "bugs": {
     "url": "https://github.com/womorg/shiny-engine/issues"
   },
-  "packageManager": "yarn@4.16.0"
+  "packageManager": "yarn@4.17.0"
 }
